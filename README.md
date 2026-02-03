@@ -126,6 +126,7 @@ PixPilot leverages Cloudinary’s APIs for:
 - NeonDB PostgreSQL database
 - Git + npm
 
+<<<<<<< HEAD
 ## 📸 Screenshots *(optional)*
 
 Add screenshots when ready:
@@ -135,6 +136,8 @@ Add screenshots when ready:
 ![Upload Page](./public/upload.png)
 ```
 
+=======
+>>>>>>> a156d8d875be8174eb7cd58845899e6379943780
 ## 📜 License
 
 Released under the MIT License.
